@@ -1,0 +1,33 @@
+.translate-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #f8f8f8;
+  padding: 10px 20px;
+  text-align: right;
+}
+
+.translate-container select {
+  font-size: 14px;
+  padding: 5px;
+}
+
+.main-heading {
+  font-size: 36px;
+  margin-top: 50px;
+}
+
+.feature-list {
+  margin-top: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+.feature-list li {
+  font-size: 20px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
